@@ -8,7 +8,8 @@ namespace ProGitForProgrammers
         {
             Console.WriteLine("Hello World Git!");
             Console.WriteLine("I just amended in VS");
-            Console.WriteLine()"I just added this in the command line repo";
+            Console.WriteLine("I just added this in the command line repo";
+            Console.WriteLine("This line added to show the staging area");
         }
     }
 }
