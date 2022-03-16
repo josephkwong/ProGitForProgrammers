@@ -2,6 +2,9 @@ using System;
 
 namespace ProGitForProgrammers
 {
+    public class Calculator
+    {
+    }
     class Program
     {
         static void Main(string[] args)
